@@ -1,18 +1,14 @@
-[
-  {
-    "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
-    "updateUrl": "",
-    "authorList": [
-      "You"
-    ],
-    "credits": "",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": []
-  }
-]
+{
+  "modid": "nyx",
+  "name": "Nyx Hack Client",
+  "description": "A lightweight 15-feature hack client for Minecraft 1.8.9 with lag fixes, beautiful GUI, and RSHIFT keybind.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["You"],
+  "credits": "Made with patience and caffeine.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
